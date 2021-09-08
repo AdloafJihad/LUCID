@@ -1,0 +1,672 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* HEADER CSS */
+header{
+    background: url(../images/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.header-part{
+    width: 100%;
+    min-height: 90vh;
+}
+
+/* NAV CSS */
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    text-transform: capitalize;
+    padding: 0%;
+    position: relative;
+    margin-left: 20px;
+    font-size: 19px;
+}
+
+.navbar-light .navbar-nav .nav-link::before{
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: -6px;
+    height: 2px;
+    width: 0%;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+
+.navbar-light .navbar-nav .nav-link::after{
+    position: absolute;
+    content: "";
+    right: 0;
+    bottom: -6px;
+    height: 2px;
+    width: 0%;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+
+.navbar-light .navbar-nav .nav-link:hover::before{
+    width: 46%;
+    
+}
+
+.navbar-light .navbar-nav .nav-link:hover::after{
+    width: 46%;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0%;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+}
+.navbar-toggler span i{
+    color: #fff;
+}
+/* LOGO CSS */
+.logo{
+    color: white;
+}
+
+
+/* HEADER TEXT AREA */
+.h-text-area{
+}
+.h-text-area h6{
+    font-size: 21px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #008ed6;
+    margin-bottom: 10px;
+}
+.h-text-area h1{
+    color: #fff;
+    padding: 5px 0px;
+}
+.h-text-area p{
+    font-size: 19px;
+    color: #99999A;
+    margin-bottom: 60px;
+}
+
+/* HEADER IMAGE AREA */
+.h-image-area{
+    position: relative;
+}
+.h-image-area img{
+
+position: absolute;
+
+bottom: 0;
+
+left: 150px;
+}
+
+/* HEADER BUTTON CSS */
+.download-now-btn{
+    border: 1px solid #008ed6;
+    padding: 10px 25px;
+    background: #008ed6;
+    margin-right: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+.veiw-feature-btn{
+    border: 1px solid #999999;
+    padding: 10px 25px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.download-now-btn:hover{
+    background: transparent;
+    color: white;
+    border: 1px solid #999999;
+}
+
+.veiw-feature-btn:hover{
+    background: #008ed6;
+    color: white;
+    border: 1px solid #008ed6;
+}
+
+/* FEATURE CSS */
+.feature{}
+.heading{}
+.heading h6{
+    text-transform: uppercase;
+    color: #008ed6;
+}
+.heading h1{
+    position: relative;
+    text-transform: capitalize;
+}
+.heading h1::before{
+    position: absolute;
+    content: "";
+    left: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    transition: .4s all ease-in-out;
+    background: #008ed6;
+}
+.heading h1::after{
+    position: absolute;
+    content: "";
+    right: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+
+.feature:hover .heading h1::before{
+    width: 50px;  
+}
+.feature:hover .heading h1::after{
+    width: 50px;
+}
+
+.f-icon-area{}
+.f-icon{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    border: 1px solid #99999A;
+    border-radius: 50%;
+}
+.f-icon i{
+    font-size: 30px;
+    line-height: 80px;
+    color: #008ed6;
+}
+.f-icon-area h4{
+    text-transform: capitalize;
+    padding: 0;
+    margin: 0;
+    padding: 10px 0px;
+}
+.f-icon-area p{
+    color: #99999A;
+    font-size: 16px;
+}
+
+/* DETAILS CSS */
+.details-i{}
+.d-image-area{}
+.d-image-area img{
+    width: 100%;
+}
+.d-text-area{
+    margin-top: 50px;
+}
+.d-text-area h5{
+    color: #008ed6;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.d-text-area h1{
+    position: relative;
+    margin: 0;
+}
+.d-text-area h1::before{
+    position: absolute;
+    content: "";
+    left: 0%;
+    bottom: -30px;
+    height: 2px;
+    width: 0;
+    transition: .4s all ease-in-out;
+    background: #008ed6;
+}
+.d-text-area h1::after{
+    position: absolute;
+    content: "";
+    right: 86%;
+    bottom: -30px;
+    height: 2px;
+    width: 0;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+.details-i:hover .d-text-area h1::before{
+    width: 35px;
+}
+.details-i:hover .d-text-area h1::after{
+    width: 35px;
+}
+.d-text-area p{
+    color: #99999A;
+    padding: 0;
+    margin: 0;
+    padding-top: 55px;
+    padding-bottom: 25px;
+}
+.d-icon-area{}
+.d-icon-area ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.d-icon-area ul li{
+    margin-bottom: 7px;
+}
+.d-icon-area ul li i{
+    color: #008ed6;
+}
+.d-icon-area ul li p{
+    padding: 0;
+    margin: 0;
+    color: black;
+}
+.d-icon-part{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.d-icon-text-part{
+    padding: 0;
+}
+
+.details-ii{
+    background: #f2f2f2;
+}
+.d-ii-text-part{
+    display: flex;
+    align-items: center;
+}
+.d-ii-text-area{}
+.d-ii-text-area h5{
+    color: #008ed6;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.d-ii-text-area h1{
+    position: relative;
+    margin: 0;
+}
+.d-ii-text-area h1::before{
+    position: absolute;
+    content: "";
+    left: 0%;
+    bottom: -30px;
+    height: 2px;
+    width: 0;
+    transition: .4s all ease-in-out;
+    background: #008ed6;
+}
+.d-ii-text-area h1::after{
+    position: absolute;
+    content: "";
+    right: 86%;
+    bottom: -30px;
+    height: 2px;
+    width: 0;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+.details-ii:hover .d-ii-text-area h1::before{
+    width: 35px;
+}
+.details-ii:hover .d-ii-text-area h1::after{
+    width: 35px;
+}
+
+.d-ii-text-area p{
+    color: #99999A;
+    padding: 0;
+    margin: 0;
+    padding-top: 55px;
+    padding-bottom: 10px;;
+}
+.d-ii-image-area{}
+.d-ii-image-area img{width: 100%;}
+
+/* TESTIMONIAL CSS */
+
+.testimonial{
+    background: url(../images/testimonial-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* min-height: 90vh; */
+    padding:70px;
+}
+.testi-h h1::before{
+    position: absolute;
+    content: "";
+    left: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    transition: .4s all ease-in-out;
+    background: #008ed6;
+}
+.testi-h h1::after{
+    position: absolute;
+    content: "";
+    right: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+
+.testimonial:hover .testi-h h1::before{
+    width: 50px;  
+}
+.testimonial:hover .testi-h h1::after{
+    width: 50px;
+}
+.testi-h{}
+.testi-h h6{}
+.testi-h h1{
+    color: white;
+}
+
+.testimonial p{
+    color: white;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.clint{
+    display: flex;
+    align-items: center;
+}
+
+.clint-img{}
+
+.clint-img img{
+}
+
+.clint-info{margin-left: 20px;}
+
+.clint-info h5{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.clint-info h4{
+    color: white;
+    font-size: 15px;
+    margin: 0;
+}
+/* .a{margin-right: 20px;} */
+
+/* OWL CAROUSEL CSS */
+.owl-nav{
+    display: none !important;
+}
+
+.owl-dots .owl-dot span{
+    width: 7px;
+    height: 7px;
+    background: transparent;
+    border: 1px solid #fff;
+    display: block;
+    margin: 0 10px;
+    border-radius: 50%;
+}
+
+.owl-dots{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.owl-dots .active span{
+    width: 10px;
+    height: 10px;
+    background:  white;
+    display: block;
+    margin: 0 10px;
+    border-radius: 50%;
+}
+
+
+/* THEME CSS */
+.theme{
+    background: black;
+}
+.theme p{
+    font-size: 35px;
+    color: white;
+    margin: 0;
+    font-weight: 600;
+}
+.theme p span{
+    font-weight: 100;
+}
+.theme-buttons{}
+.theme-button-view{}
+.theme-button-download{}
+
+/* PRICING CSS */
+.pricing{}
+.pricing h1::before{
+    position: absolute;
+    content: "";
+    left: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    transition: .4s all ease-in-out;
+    background: #008ed6;
+}
+.pricing h1::after{
+    position: absolute;
+    content: "";
+    right: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+
+.pricing:hover .heading h1::before{
+    width: 50px;  
+}
+.pricing:hover .heading h1::after{
+    width: 50px;
+}
+.pricing-table-part{}
+.pricing-tables{
+    border: 1px solid #99999A;
+    transition: 4s all ease-in-out;
+}
+.pricing-tables h3{
+    margin: 0;
+    padding: 15px 0px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.pricing-tables span{
+    height: 1px;
+    width: 100%;
+    background: #99999A;
+    display: block;
+}
+.pricing-tables h1{
+    padding-top: 25px;
+    FONT-WEIGHT: 600;
+    margin: 0;
+    font-size: 50px;
+}
+.pricing-tables h1 sup{FONT-WEIGHT: 500;font-size: 30px;}
+.pricing-tables h5{
+    margin: 0;
+    padding-bottom: 25px;
+    font-size: 20px;
+    color: #99999A;
+}
+.pricing-tables p{
+    padding: 25px 0;
+    margin: 0;
+    color: #99999A;
+}
+.btn-order{
+    padding: 10px 25px;
+    margin: 20px 0px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 1px solid #99999A;
+    color: #008ed6;
+}
+
+/* PRICING HOVER CSS */
+.pricing-tables:hover h3{
+    color: #008ed6;
+
+}
+
+.pricing-tables:hover h1{
+    background: #008ed6 ;
+    color: white;
+}
+
+.pricing-tables:hover .btn-order{
+    background: #008ed6 ;
+    color: white;
+    border: 1px solid #008ed6; 
+}
+
+.pricing-tables:hover h5{
+    background: #008ed6 ;
+    color: white;
+    
+}
+
+/* CONTACT CSS */
+.contact {
+    position: relative;
+    padding-bottom: 320px !important;
+    background: #f2f2f2;
+}
+
+.contact h1::before{
+    position: absolute;
+    content: "";
+    left: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    transition: .4s all ease-in-out;
+    background: #008ed6;
+}
+.contact h1::after{
+    position: absolute;
+    content: "";
+    right: 45%;
+    bottom: -40px;
+    height: 2px;
+    width: 0px;
+    background: #008ed6;
+    transition: .4s all ease-in-out;
+}
+
+.contact:hover .heading h1::before{
+    width: 50px;  
+}
+.contact:hover .heading h1::after{
+    width: 50px;
+}
+.contact-part{}
+.contact-part p{
+    margin: 0;
+    color: #99999A;
+}
+.contact-icons{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+.contact-icons i{
+    font-size: 40px;
+    line-height: 80px;
+    color: #008ed6;
+}
+
+
+/* FORM CSS */
+form{
+    background: #000;
+    padding: 0px 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 50%;
+    border-radius: 5px;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    bottom: -50px;
+    transform: translateX(-50%);
+    margin-top: 30px;
+}
+form input{background: #000 !IMPORTANT;margin-bottom: 22px;border: 1px solid #dcdcdc !important;}
+form input[type="submit"]{
+    background: #008ed6 !important;
+    border: 1px solid #008ed6 !important;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px !important;
+    margin-top: 10px;
+    
+}
+
+form input[type="submit"]:hover{
+    background: #0275af !important;
+    border: 1px solid #0275af !important;
+
+}
+form textarea{
+    background: transparent !important;
+}
+
+/* FOOTER CSS */
+footer{
+    background: #15141a;
+}
+.footer-social-icon-part{
+    display: flex;
+    width: 20%;
+    margin: auto;
+    justify-content: space-between;
+}
+.footer-social-icons{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+.footer-social-icons i{
+    color: #444348;
+    line-height: 40px;
+    font-size: 20px;
+    transition: .4s all ease-in-out;
+}
+footer p{
+    text-align: center;
+    color: #444348;
+    margin: 0;
+}
+
+/* FOOTER HOVER CSS */
+.footer-social-icons i:hover{
+    color: #008ed6;
+}

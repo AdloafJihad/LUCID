@@ -1,0 +1,1086 @@
+@media (min-width:0px) and (max-width:320px){
+
+
+    .header-part {
+        min-height: 90vh;
+        padding-bottom: 20px;
+    }
+
+    .h-text-area{
+        text-align: center !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 10px;
+    }
+    .h-image-area img {
+        display: none;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:0;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 33%;
+    }
+    .heading h1::after{
+        right: 33%;
+    }
+
+    .testi-h h1::before{
+        left: 20%;
+    }
+    .testi-h h1::after{
+        right: 20%;
+    }
+    .heading h1{
+        font-size: 23px;
+    }
+    .d-text-area{
+        text-align: center;
+    }
+
+    .d-text-area h1::before {
+       
+        left: 37%;
+    }
+    .d-text-area h1::after {
+       
+        right: 37%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 37%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 37%;
+    }
+
+    .details-ii{
+        text-align: center;
+    }
+    .theme p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+
+    .contact {
+        padding-bottom: 490px !important;
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 20px;
+        padding-bottom: 4px;
+        width: 90%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 50%;
+    }
+}
+
+@media (min-width:321px) and (max-width:360px){
+    .h-text-area{
+        text-align: center !important;
+        padding-top: 105px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 10px;
+    }
+    .h-image-area img {
+        display: none;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:0;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 35%;
+    }
+    .heading h1::after{
+        right: 35%;
+    }
+
+    .testi-h h1::before{
+        left: 25%;
+    }
+    .testi-h h1::after{
+        right: 25%;
+    }
+    .heading h1{
+        font-size: 23px;
+    }
+    .d-text-area{
+        text-align: center;
+    }
+
+    .d-text-area h1::before {
+       
+        left: 38%;
+    }
+    .d-text-area h1::after {
+       
+        right: 38%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 38%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 38%;
+    }
+
+    .details-ii{
+        text-align: center;
+    }
+    .theme p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+    .py-5 {
+        
+      
+    }
+
+    .contact {
+        padding-bottom: 460px !important;
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 20px;
+        padding-bottom: 4px;
+        width: 90%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 50%;
+    }
+}
+@media (min-width:361px) and (max-width:384px){
+    .h-text-area{
+        text-align: center !important;
+        padding-top: 105px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 10px;
+    }
+    .h-image-area img {
+        display: none;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:0;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 35%;
+    }
+    .heading h1::after{
+        right: 35%;
+    }
+
+    .testi-h h1::before{
+        left: 25%;
+    }
+    .testi-h h1::after{
+        right: 25%;
+    }
+    .heading h1{
+        font-size: 23px;
+    }
+    .d-text-area{
+        text-align: center;
+    }
+
+    .d-text-area h1::before {
+       
+        left: 38%;
+    }
+    .d-text-area h1::after {
+       
+        right: 38%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 38%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 38%;
+    }
+
+    .details-ii{
+        text-align: center;
+    }
+    .theme p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+    .py-5 {
+        
+        
+    }
+    .contact {
+        padding-bottom: 460px !important;
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 20px;
+        padding-bottom: 4px;
+        width: 90%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 50%;
+    }
+}
+@media (min-width:385px) and (max-width:411px){
+    .h-text-area{
+        text-align: center !important;
+        padding-top: 105px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 10px;
+    }
+    .h-image-area img {
+        display: none;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:0;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 37%;
+    }
+    .heading h1::after{
+        right: 37%;
+    }
+
+    .testi-h h1::before{
+        left: 30%;
+    }
+    .testi-h h1::after{
+        right: 30%;
+    }
+    .heading h1{
+        font-size: 23px;
+    }
+    .d-text-area{
+        text-align: center;
+    }
+
+    .d-text-area h1::before {
+       
+        left: 40%;
+    }
+    .d-text-area h1::after {
+       
+        right: 40%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 38%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 38%;
+    }
+
+    .details-ii{
+        text-align: center;
+    }
+    .theme p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+    .py-5 {
+        
+        padding-bottom: 0 !important;
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 20px;
+        padding-bottom: 4px;
+        width: 90%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 50%;
+    }
+}
+@media (min-width:411px) and (max-width:414px){
+    .h-text-area{
+        text-align: center !important;
+        padding-top: 140px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 10px;
+    }
+    .h-image-area img {
+        display: none;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:0;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 37%;
+    }
+    .heading h1::after{
+        right: 37%;
+    }
+
+    .testi-h h1::before{
+        left: 30%;
+    }
+    .testi-h h1::after{
+        right: 30%;
+    }
+    .heading h1{
+        font-size: 23px;
+    }
+    .d-text-area{
+        text-align: center;
+    }
+
+    .d-text-area h1::before {
+       
+        left: 40%;
+    }
+    .d-text-area h1::after {
+       
+        right: 40%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 40%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 40%;
+    }
+
+    .details-ii{
+        text-align: center;
+    }
+    .theme p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 20px;
+        padding-bottom: 4px;
+        width: 90%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 50%;
+    }
+
+    .contact {
+    padding-bottom: 460px !important;
+}
+}
+@media (min-width:415px) and (max-width:600px){
+    .h-text-area{
+        text-align: center !important;
+        padding-top: 150px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 15px;
+        font-size: 26px;    
+    }
+    .h-image-area img {
+        display: none;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:0;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 40%;
+    }
+    .heading h1::after{
+        right: 40%;
+    }
+
+    
+    .heading h1{
+        font-size: 23px;
+    }
+    .d-text-area{
+        text-align: center;
+    }
+
+    .d-text-area h1::before {
+       
+        left: 42%;
+    }
+    .d-text-area h1::after {
+       
+        right: 42%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 42%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 42%;
+    }
+    .testi-h h1::before{
+        left: 38%;
+    }
+    .testi-h h1::after{
+        right: 38%;
+    }
+    .details-ii{
+        text-align: center;
+    }
+    .theme p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+    .py-5 {
+        
+        padding-bottom: 0 !important;
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 30px;
+        padding-bottom: 4px;
+        width: 75%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 50%;
+    }
+}
+@media (min-width:601px) and (max-width:768px){
+    .h-text-area{
+        text-align: left !important;
+        padding-top: 150px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 15px;
+        font-size: 26px;    
+    }
+    .h-image-area img {
+        left: 15px !important;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+    
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-left:10px;
+        display: inline-block;
+        margin-bottom: 10px;
+        
+    }
+    .heading h1::before{
+        left: 42%;
+    }
+    .heading h1::after{
+        right: 42%;
+    }
+
+    
+    .heading h1{
+        
+        
+    }
+    .d-text-area{
+        
+    }
+    .d-text-area h1{
+        font-size: 32px;
+    }
+    .d-text-area h1::before {
+       
+        left: 0%;
+    }
+    .d-text-area h1::after {
+       
+        right: 77%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 0%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 77%;
+    }
+    .testi-h h1::before{
+        left: 41%;
+    }
+    .testi-h h1::after{
+        right: 41%;
+    }
+    .details-ii{
+        text-align: left;
+    }
+    .theme p {
+        font-size: 15px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part {
+        padding: 0px 5px;
+        margin-bottom: 0px;
+    }
+    .py-5 {
+        
+        
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 30px;
+        padding-bottom: 4px;
+        width: 75%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 35%;
+    }
+    .f-icon-area p {
+        font-size: 13px;
+    }
+    .d-ii-text-area h1 {
+        font-size: 33px;
+    }
+    .d-ii-image-area img {
+        padding-top: 50px;
+    }
+}
+@media (min-width:769px) and (max-width:834px){
+    .h-text-area{
+        text-align: left !important;
+        padding-top: 150px !important;
+    }
+    .h-text-area h6 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .h-text-area h1{
+        margin-bottom: 15px;
+        font-size: 26px;    
+    }
+    .h-image-area img {
+        left: 15px !important;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+    .veiw-feature-btn {
+        margin-bottom: 10px !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 10px;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .heading h1::before{
+        left: 42%;
+    }
+    .heading h1::after{
+        right: 42%;
+    }
+
+    
+    .heading h1{
+        
+        
+    }
+    .d-text-area{
+        
+    }
+    .d-text-area h1{
+        font-size: 32px;
+    }
+    .d-text-area h1::before {
+       
+        left: 0%;
+    }
+    .d-text-area h1::after {
+       
+        right: 77%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 0%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 77%;
+    }
+    .testi-h h1::before{
+        left: 41%;
+    }
+    .testi-h h1::after{
+        right: 41%;
+    }
+    .details-ii{
+        text-align: left;
+    }
+    .theme p {
+        font-size: 24px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part {
+        padding: 0px 5px;
+        margin-bottom: 0px;
+    }
+    .py-5 {
+        
+        
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 30px;
+        padding-bottom: 4px;
+        width: 75%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 35%;
+    }
+    .f-icon-area p {
+        font-size: 13px;
+    }
+    .d-ii-text-area h1 {
+        font-size: 33px;
+    }
+    .d-ii-image-area img {
+        padding-top: 50px;
+    }
+}
+@media (min-width:801) and (max-width:834){}
+@media (min-width:835px) and (max-width:1024px){
+    .header-part {
+        min-height: 40vh;
+    }
+    .h-text-area{
+        text-align: left !important;
+        padding-top: 100px !important;
+    }
+    .h-text-area h6 {
+        
+    }
+    .h-text-area h1{
+         
+    }
+    .h-image-area img {
+        left: 15px !important;
+    }
+
+    .download-now-btn {
+        
+        padding: 10px 15px;
+        margin: 0;
+        margin-bottom: 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 10px;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .heading h1::before{
+        left: 44%;
+    }
+    .heading h1::after{
+        right: 44%;
+    }
+
+    
+    .heading h1{
+        
+        
+    }
+    .d-text-area{
+        
+    }
+    .d-text-area h1{
+        font-size: 32px;
+    }
+    .d-text-area h1::before {
+       
+        left: 0%;
+    }
+    .d-text-area h1::after {
+       
+        right: 83%;
+    }
+    .d-ii-text-area h1::before {
+       
+        left: 0%;
+    }
+    .d-ii-text-area h1::after {
+       
+        right: 83%;
+    }
+    .testi-h h1::before{
+        left: 44%;
+    }
+    .testi-h h1::after{
+        right: 44%;
+    }
+    .details-ii{
+        text-align: left;
+    }
+    .theme p {
+        font-size: 24px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .theme-button-download {
+        margin: 0 !important;
+    }
+    .theme-buttons {
+        text-align: center;
+    }
+    .pricing-table-part {
+        padding: 0px 5px;
+        margin-bottom: 0px;
+    }
+    .py-5 {
+        
+        
+    }
+    form {
+        padding-top: 50px !important;
+        padding: 0px 30px;
+        padding-bottom: 4px;
+        width: 55%;
+        margin-top: 11px;
+    }
+    .footer-social-icon-part {
+        width: 25%;
+    }
+    .f-icon-area p {
+       
+    }
+    .d-ii-text-area h1 {
+        font-size: 33px;
+    }
+    .d-ii-image-area img {
+        padding-top: 50px;
+    }
+    form input[type="submit"] {
+        margin-top: 20px;
+    }
+}
+@media (min-width:1025) and (max-width:1280){}
+@media (min-width:1025) and (max-width:1440){
+    
+    .heading h1::before {
+        left: 46%;
+    }
+    
+    .heading h1::after {
+        right: 46%;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+
+    .h-text-area h6 {
+        font-size: 27px;
+    }
+
+    .h-text-area h1 {
+        padding: 10px 0px;
+        font-size: 58px;
+    }
+
+    .h-text-area p {
+        font-size: 24px;
+    }
+
+    .download-now-btn {
+        font-size: 20px;
+    }
+
+    .veiw-feature-btn {
+        font-size: 20px;
+    }
+
+    .heading h6 {
+        font-size: 25px;
+        letter-spacing: 2px;
+    }
+
+    .heading h1 {
+        font-size: 50px;
+    }
+
+    .f-icon {
+        width: 100px;
+        height: 100px;
+    }
+
+    .f-icon i {
+        font-size: 40px;
+        line-height: 100px;
+    }
+
+    .f-icon-area h4 {
+        font-size: 30px;
+    }
+
+    .f-icon-area p {
+        font-size: 20px;
+    }
+
+    .d-text-area h5 {
+        font-size: 25px;
+    }
+
+    .d-text-area h1 {
+        font-size: 50px;
+    }
+
+    .d-text-area p {
+        font-size: 20px;
+    }
+
+    .d-ii-text-area h5 {
+        font-size: 25px;
+    }
+
+    .d-ii-text-area h1 {
+        font-size: 50px;
+    }
+
+    .d-ii-text-area p {
+        font-size: 20px;
+    }
+
+    .testimonial p {
+        font-size: 22px;
+    }
+
+    .clint-info h5 {
+        font-size: 25px;
+    }
+
+    .clint-info h4 {
+        font-size: 30px;
+    }
+
+    .pricing-tables p {
+        padding: 35px 0;
+        font-size: 20px;
+    }
+
+    .pricing-tables h3 {
+        font-size: 30px;
+    }
+
+    .btn-order {
+        font-size: 20px;
+    }
+
+    .contact-part p {
+        font-size: 20px;
+    }
+
+    footer p {
+        font-size: 20px;
+    }
+}
